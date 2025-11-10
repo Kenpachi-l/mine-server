@@ -1,2 +1,0 @@
-# mine-server
-server foda
